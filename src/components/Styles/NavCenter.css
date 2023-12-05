@@ -1,12 +1,14 @@
 .nav-center {
   display: flex;
-  height: 25px;
+  height: 30px;
+  width: 270px;
+  border-radius: 10px;
   justify-content: center;
 }
 
 .nav-search {
   margin-left: 10px;
 }
-.mic{
+.mic {
   margin-left: 10px;
 }
