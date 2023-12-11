@@ -60,7 +60,7 @@ function AllVideos() {
         image={vi2}
         title="LAMORGHINI 2020 | Drag Race"
         name="PRATHU'S GARAGE"
-        views="1.3M"
+        views="1M"
         upload="1 day ago"
         />
         <Video 
@@ -68,7 +68,7 @@ function AllVideos() {
         title ="Mix - Mareez-E-Ishq | [ Slowed+Reverb ]
          | ZiD | Prathu Pote | LOFI WALA" 
         name="Lofi Master"
-        views="10.3M"
+        views="4M"
         upload="19 days ago"
         />
         <Video 
@@ -80,10 +80,11 @@ function AllVideos() {
         />
         <Video 
         image={vi5}
-        title ="💛💚 Best Mashup NonStop Love Mashup of Arijit Singh, Jubin Nautiyal, BPraak, AtifAslam ,Neha Kakkar by Bollywood Nonstop 6,331,646 views 4 months ago 47 minutes💛💚 Best Mashup NonStop Love Mashup of Arijit Singh, Jubin Nautiyal, BPraak, AtifAslam"
-        name="Lofi Master"
-        views="10.3M"
-        upload="19 days ago"
+        title ="💛💚 Best Mashup NonStop Love Mashup of Arijit Singh, Jubin Nautiyal, BPraak, AtifAslam ,Neha Kakkar 
+        💛💚 Best Mashup NonStop Love Mashup of Arijit Singh, Jubin Nautiyal, BPraak, AtifAslam"
+        name="Pratham Master"
+        views="998K"
+        upload="9 days ago"
         />
     </div>
   );
